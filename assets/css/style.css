@@ -1,6 +1,4 @@
-html {
-    height: 100% auto;
-}
+
 
 header {
     background-color: white;
@@ -45,7 +43,6 @@ a {
 
 body {
     background-image: url("../images/tree_bark.png");
-    height: 100% auto;
 }
 
 .wrapper {
@@ -55,13 +52,12 @@ body {
     margin-right: 150px;
     margin-left: 150px;
     margin-top: 50px;
+    margin-bottom: 100px;
     border-radius: 20px;
-    height: 100% auto;
 }
 
 .content {
     display: inline-block;
-    height: 100% auto;
 }
 
 #profilePic {
